@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "get-token.js",
   "scripts": {
-    "start": "node get-token.js"
+    "start": "node token/get-token.js"
   },
   "dependencies": {
     "express": "^4.18.2",
