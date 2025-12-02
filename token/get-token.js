@@ -40,7 +40,9 @@ app.get("/refresh_token", function (req, res) {
   });
 });
 
-app.listen(3002, () => {
-  console.log("Listening on 3002");
+const PORT = process.env.PORT || 3002;
+app.listen(PORT, () => {
+  console.log(`Listening on ${PORT}`);
 });
+
 
