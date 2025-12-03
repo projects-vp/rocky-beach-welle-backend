@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>🌊 rock-beach-welle-backend</h1>
+  <h1>🌊 rocky-beach-welle-backend</h1>
 
   <p>Dies ist das Backend für das Fanprojekt 
     <a href="https://rocky-beach-welle.de/" target="_blank">Rocky Beach Welle</a>, 
@@ -35,7 +35,7 @@ REFRESH_TOKEN=
   <p>Diese Werte müssen im Render-Dashboard unter <strong>Environment &gt; Environment Variables</strong> eingetragen werden, damit die Spotify-API funktioniert.</p>
 
   <h2>📁 Projektstruktur</h2>
-  <pre><code>rock-beach-welle-backend/
+  <pre><code>rocky-beach-welle-backend/
 ├── token/                 # Enthält get-token.js für Spotify-Token-Handling
 ├── package.json           # Projektabhängigkeiten und Startskript
 ├── package-lock.json      # Lockfile
