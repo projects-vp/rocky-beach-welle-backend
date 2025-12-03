@@ -1,4 +1,4 @@
-
+01
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -9,7 +9,7 @@
 
   <p>Dies ist das Backend für das Fanprojekt 
     <a href="https://rocky-beach-welle.de/" target="_blank">Rocky Beach Welle</a>, 
-    eine Web-App rund um <em>Die drei ???</em>, mit Spotify-Integration und kuratierten Episodenlisten.
+    eine Web-App für alle Alben des Künstlers <em>Die drei ???</em>, mit Spotify-Integration.
   </p>
 
   <h2>🚀 Live-Projekt</h2>
